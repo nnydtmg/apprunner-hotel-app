@@ -24,11 +24,11 @@
     "aws-sdk": "^2.1231.0",
     "cookie-parser": "~1.4.6",
     "debug": "~4.3.4",
-    "express": "~4.18.2",
+    "express": "~4.22.3",
     "http-errors": "~2.0.0",
     "morgan": "~1.10.0",
     "mysql": "^2.18.1",
-    "postcss": "^8.4.18",
+    "postcss": "^8.5.33",
     "postcss-nested": "^6.0.0",
     "postcss-preset-env": "^7.8.2",
     "pug": "^3.0.2"
